@@ -26,7 +26,8 @@
     "dependencies": {
         "mimelib": "~0.2",
         "mime": "1.2.9",
-        "request": "~2.22.0"
+        "request": "~2.22.0",
+        "cheerio": "~0.12.1"
     },
     "devDependencies": {
         "nodeunit": "*",
